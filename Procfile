@@ -1,1 +1,1 @@
-worker: python sav.py
+workers: python sav.py
