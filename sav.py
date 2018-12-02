@@ -2,7 +2,7 @@ import discord
 import time
 from discord.ext.commands import Bot
 
-client = Bot('n!')
+client = Bot('s!')
 
 @client.event
 async def on_ready():
